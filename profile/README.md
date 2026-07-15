@@ -1,12 +1,15 @@
-## Hi there 👋
+# pinqponq
 
-<!--
+A venture studio building interconnected products from real needs.
+Each product stands on its own and makes the others stronger.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## pinqloq
+
+A centralized logging SDK and real-time dashboard for .NET applications.
+One line of ASP.NET Core middleware logs every HTTP request automatically.
+Custom events, exceptions, and client-side events (mobile, browser) flow
+through the same backend SDK — no separate infrastructure required.
+
+→ [pinqloq.pinqponq.io](https://pinqloq.pinqponq.io) · [NuGet](https://www.nuget.org/packages/pinqloq)
