@@ -1,7 +1,14 @@
-# pinqponq
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pinqponq.io/icons/pinqponq_withoutbg_whitetext.svg" />
+    <img src="https://pinqponq.io/icons/pinqponq_withoutbg_blacktext.svg" width="200" alt="pinqponq" />
+  </picture>
+</p>
 
-A venture studio building interconnected products from real needs.
-Each product stands on its own and makes the others stronger.
+<p align="center">
+  A venture studio building interconnected products from real needs.<br />
+  Each product stands on its own and makes the others stronger.
+</p>
 
 ---
 
