@@ -5,7 +5,7 @@ Each product stands on its own and makes the others stronger.
 
 ---
 
-## pinqloq
+## <img src="https://pinqloq.pinqponq.io/pinqloq_black.svg" width="26" align="top" /> &nbsp;pinqloq
 
 A logging service for your apps and backend. The SDK runs inside your
 backend and sends every log to one central panel. Add one line of
@@ -19,7 +19,7 @@ language.
 
 ---
 
-## rindle
+## <img src="https://pinqponq.io/icons/rindle_logo.png" width="26" align="top" /> &nbsp;rindle
 
 A camera-first memory app for couples. Rindle opens straight to the camera,
 then a quick triage step keeps only the best shots and moves them into a
