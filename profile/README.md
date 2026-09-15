@@ -7,10 +7,13 @@ Each product stands on its own and makes the others stronger.
 
 ## pinqloq
 
-A centralized logging SDK and real-time dashboard for .NET applications.
-One line of ASP.NET Core middleware logs every HTTP request automatically.
-Custom events, exceptions, and client-side events (mobile, browser) flow
-through the same backend SDK — no separate infrastructure required.
+A logging service for your apps and backend. The SDK runs inside your
+backend and sends every log to one central panel. Add one line of
+middleware and it logs every HTTP request for you, or call the SDK
+yourself to log custom events, exceptions, and client events from your
+mobile and web apps. It works with .NET, Node.js, Go, and Ruby. You can
+also connect an AI assistant over MCP and ask about your logs in plain
+language.
 
 → [pinqloq.pinqponq.io](https://pinqloq.pinqponq.io) · [NuGet](https://www.nuget.org/packages/pinqloq) · [npm](https://www.npmjs.com/package/pinqloq) · [Go](https://pkg.go.dev/github.com/pinqponq/pinqloq-go-sdk/v2) · [RubyGems](https://rubygems.org/gems/pinqloq)
 
