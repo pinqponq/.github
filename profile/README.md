@@ -12,7 +12,7 @@ One line of ASP.NET Core middleware logs every HTTP request automatically.
 Custom events, exceptions, and client-side events (mobile, browser) flow
 through the same backend SDK — no separate infrastructure required.
 
-→ [pinqloq.pinqponq.io](https://pinqloq.pinqponq.io) · [NuGet](https://www.nuget.org/packages/pinqloq)
+→ [pinqloq.pinqponq.io](https://pinqloq.pinqponq.io) · [NuGet](https://www.nuget.org/packages/pinqloq) · [npm](https://www.npmjs.com/package/pinqloq) · [Go](https://pkg.go.dev/github.com/pinqponq/pinqloq-go-sdk/v2) · [RubyGems](https://rubygems.org/gems/pinqloq)
 
 ---
 
